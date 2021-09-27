@@ -7,8 +7,6 @@ Olá! Bem vindo ao meu livro de receitas :coffee:
 - Pavê
 - READMI
 
-
-
 - Bolo Cenoura
 
   
